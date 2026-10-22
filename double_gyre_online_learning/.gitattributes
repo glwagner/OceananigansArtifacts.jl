@@ -1,0 +1,2 @@
+# Plain git objects (each file < 100 MB), so raw downloads do not count against LFS bandwidth
+*.jld2 -filter -diff -merge
